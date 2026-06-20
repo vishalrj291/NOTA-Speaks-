@@ -1,0 +1,17 @@
+{
+  "name": "nota-speaks-server",
+  "version": "1.0.0",
+  "description": "NOTA Speaks Backend — Node.js + Express + MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "seed": "node seed.js"
+  },
+  "keywords": [],
+  "author": "NOTA Speaks",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
